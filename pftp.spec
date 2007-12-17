@@ -14,7 +14,6 @@ Source1:	faq.html.bz2
 Source2:	pftp-xinetd
 Patch0:		%{name}-mdk.patch.bz2
 Buildrequires:	openssl-devel glibc-static-devel 
-BuildRoot: 	%{_tmppath}/%{name}-buildroot
 
 
 %description
