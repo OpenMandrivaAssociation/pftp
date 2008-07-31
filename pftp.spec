@@ -1,6 +1,6 @@
 %define name 		pftp
 %define version 	1.1.6
-%define release 	%mkrel 13
+%define release 	%mkrel 14
 
 Summary: 	Port-File-Transfer-Program not to muddle up with standard FTP
 Name: 		%{name}
