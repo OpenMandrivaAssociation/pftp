@@ -1,4 +1,4 @@
 sources:
-  "faq.html.bz2:"	17f99e79be641d823342dbcd21515bfc17ed3b9d
-  "pftp-1.1.6.tar.bz2:"	925646f9de2b404ea86cedc468d74080b1df5e56
-  "pftp-xinetd:"	2e66f98da8be57e8be5ab0373adb0b9a20f7a889
+  "faq.html.bz2": 17f99e79be641d823342dbcd21515bfc17ed3b9d
+  "pftp-1.1.6.tar.bz2": 925646f9de2b404ea86cedc468d74080b1df5e56
+  "pftp-mdk.patch.bz2": f5e782dc02d8048d6b40c488b3413d828284f621

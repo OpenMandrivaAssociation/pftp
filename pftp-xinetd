@@ -1,0 +1,13 @@
+service pftp
+{
+	socket_type		= stream
+	wait			= no
+	user			= root
+	server			= /usr/bin/pftp
+	server_args		= -i -a
+	log_on_success		+= DURATION USERID
+	log_on_failure		+= USERID
+	nice			= 10
+}
+
+
