@@ -3,7 +3,7 @@
 Summary: 	Port-File-Transfer-Program not to muddle up with standard FTP
 Name: 		pftp
 Version: 	1.1.6
-Release: 	16
+Release: 	17
 Group: 		Networking/File transfer
 License: 	GPL
 URL: 		http://www.pftp.de/
