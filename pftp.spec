@@ -6,7 +6,7 @@ Version: 	1.1.6
 Release: 	17
 Group: 		Networking/File transfer
 License: 	GPL
-URL: 		http://www.pftp.de/
+URL: 		https://www.pftp.de/
 Source0: 	%{name}-%{version}.tar.bz2
 Source1:	faq.html.bz2
 Source2:	pftp-xinetd
